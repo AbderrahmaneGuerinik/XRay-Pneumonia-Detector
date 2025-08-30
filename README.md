@@ -50,7 +50,7 @@ Rapid and accurate detection of pneumonia is crucial to save lives. Deep Learnin
 
 ## Results
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 ![Report](report.png)
 ![ROC Curve](roc.png)
 ![Confusion Matrix](cm.png)
