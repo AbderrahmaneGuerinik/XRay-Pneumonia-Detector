@@ -1,6 +1,6 @@
 # XRay Pneumonia Detector
 
-A Deep Learning project to detect pneumonia from chest X-ray images.
+A Deep Learning project to detect pneumonia from chest X-ray images (Accuracy = 86%)
 
 ---
 
@@ -51,7 +51,6 @@ Rapid and accurate detection of pneumonia is crucial to save lives. Deep Learnin
 ## Results
 
 ![Screenshot](screenshot.jpg)
-![Report](report.png)
 ![ROC Curve](roc.png)
 ![Confusion Matrix](cm.png)
 ![MLFlow Tracking](mlflow.png)
