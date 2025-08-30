@@ -17,7 +17,7 @@ A Deep Learning project to detect pneumonia from chest X-ray images.
 ## What is Pneumonia?
 Pneumonia is an infection that inflames the air sacs in one or both lungs, which may fill with fluid. It can cause cough, fever, and difficulty breathing, and is particularly dangerous for children and the elderly.
 
-![Pneumonia](pneumonia.png)
+![Pneumonia](pneumonia.jpg)
 ---
 
 ## Why Detecting Pneumonia with Deep Learning is Important
